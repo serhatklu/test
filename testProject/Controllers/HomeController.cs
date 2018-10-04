@@ -15,9 +15,9 @@ namespace testProject.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Your applicati.";
 
-            return View();
+            return ();
         }
 
         public ActionResult Contact()
