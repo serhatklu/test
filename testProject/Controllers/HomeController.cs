@@ -17,7 +17,7 @@ namespace testProject.Controllers
         {
             ViewBag.Message = "Your applicati.";
 
-            return View();
+            return ();
         }
 
         public ActionResult Contact()
